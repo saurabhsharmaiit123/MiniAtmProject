@@ -128,7 +128,7 @@ int main()
 
 				system("cls");
 			
-				cout << endl << "**** Welcome to SBI ATM *****" << endl;
+				cout << endl << "**** Welcome to SBI YONO ATM *****" << endl;
 				cout << endl << "Select Options ";
 				cout << endl << "1. Check Balance";
 				cout << endl << "2. Cash withdraw";
